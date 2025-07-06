@@ -21,12 +21,18 @@ h1{
 }
 .recipes-introduction{
     text-align: center;
+
 }
 
 
 img{
     width: 400px;
     height: 500px;
+}
+
+.recipe-img{
+    display: block;
+    margin: 0 auto;
 }
 .first-meals{
     display: flex;
@@ -36,3 +42,4 @@ img{
     display: flex;
     justify-content: space-around;
 }
+
