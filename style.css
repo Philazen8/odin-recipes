@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: darkslategrey;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+ul{
+    
+    justify-content: center;
+    gap: 60px;
+    
+}
+li{
+    font-size: 1.6rem;
+}
+
+h1{
+    text-align: center;
+}
+.recipes-introduction{
+    text-align: center;
+}
+
+
+img{
+    width: 400px;
+    height: 500px;
+}
+.first-meals{
+    display: flex;
+    justify-content: space-around;
+}
+.second-meals{
+    display: flex;
+    justify-content: space-around;
+}
